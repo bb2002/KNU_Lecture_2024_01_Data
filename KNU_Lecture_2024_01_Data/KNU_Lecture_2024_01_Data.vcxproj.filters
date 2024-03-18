@@ -18,5 +18,26 @@
     <ClCompile Include="helloworld.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="031401.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="031402.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="031403.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="031404.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="031405.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="031801.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="031802.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
