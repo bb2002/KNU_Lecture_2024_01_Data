@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\pointer">
+      <UniqueIdentifier>{faceda28-c453-4504-b58a-fadd7f6b57c8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.c">
@@ -38,6 +41,36 @@
     </ClCompile>
     <ClCompile Include="031802.c">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="032101_me.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="032101_ans.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="032102_ans.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="032103.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="032104.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer01.c">
+      <Filter>소스 파일\pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer02.c">
+      <Filter>소스 파일\pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic01.c">
+      <Filter>소스 파일\pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic02.c">
+      <Filter>소스 파일\pointer</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz.c">
+      <Filter>소스 파일\pointer</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
