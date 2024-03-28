@@ -20,7 +20,7 @@ char compare(int a, int b) {
 	else {
 		return '<';
 	}
-}
+} 
 
 void attach(float coef, int expon) {
 	if (avail > MAX_TERMS) {

@@ -13,64 +13,91 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\pointer">
+    <Filter Include="소스 파일\week4">
+      <UniqueIdentifier>{25d0cd77-2158-47ce-a426-0ddfd634538e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week3">
       <UniqueIdentifier>{faceda28-c453-4504-b58a-fadd7f6b57c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week2">
+      <UniqueIdentifier>{9b325552-6c46-412b-9ccc-9c88342b9260}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week1">
+      <UniqueIdentifier>{f9c1abc0-4212-4f17-b66e-d4486f014814}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="031401.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="031402.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="031403.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="031404.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="031405.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="031801.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="031802.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="032101_me.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="032101_ans.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="032102_ans.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="032103.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="032104.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="pointer01.c">
-      <Filter>소스 파일\pointer</Filter>
+      <Filter>소스 파일\week3</Filter>
     </ClCompile>
     <ClCompile Include="pointer02.c">
-      <Filter>소스 파일\pointer</Filter>
+      <Filter>소스 파일\week3</Filter>
     </ClCompile>
     <ClCompile Include="dynamic01.c">
-      <Filter>소스 파일\pointer</Filter>
+      <Filter>소스 파일\week3</Filter>
     </ClCompile>
     <ClCompile Include="dynamic02.c">
-      <Filter>소스 파일\pointer</Filter>
+      <Filter>소스 파일\week3</Filter>
     </ClCompile>
     <ClCompile Include="quiz.c">
-      <Filter>소스 파일\pointer</Filter>
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="arraylist1.c">
+      <Filter>소스 파일\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="linkedlist.c">
+      <Filter>소스 파일\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="polyadd1.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="polyadd2.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="polysub1_ans.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="polysub1_me.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="polysub2_ans.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix1.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix2.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="031401.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="031402.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="031403.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="031404.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="031405.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="circularlinked1.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="circularlinked2.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="doublelinked1.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="doublelinked2.c">
+      <Filter>소스 파일\week3</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
