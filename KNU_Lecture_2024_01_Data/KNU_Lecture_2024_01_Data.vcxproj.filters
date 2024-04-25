@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\week4">
+      <UniqueIdentifier>{25d0cd77-2158-47ce-a426-0ddfd634538e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week3">
+      <UniqueIdentifier>{faceda28-c453-4504-b58a-fadd7f6b57c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week2">
+      <UniqueIdentifier>{9b325552-6c46-412b-9ccc-9c88342b9260}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week1">
+      <UniqueIdentifier>{f9c1abc0-4212-4f17-b66e-d4486f014814}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week5">
+      <UniqueIdentifier>{b384141e-cdf7-4d88-9838-5b216495b81e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week6">
+      <UniqueIdentifier>{27891c76-5c29-44d1-8ee9-2f639c270ade}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week7">
+      <UniqueIdentifier>{7e749a15-d560-431b-8745-498f9aea1d6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week8">
+      <UniqueIdentifier>{25d25ddb-5c22-4dbc-b945-fa336a0d25b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\week9">
+      <UniqueIdentifier>{36c1e7ab-84fe-45bd-ad51-1ebfd0d8cee7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="helloworld.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer01.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer02.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic01.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="dynamic02.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="arraylist1.c">
+      <Filter>소스 파일\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="linkedlist.c">
+      <Filter>소스 파일\week4</Filter>
+    </ClCompile>
+    <ClCompile Include="polyadd1.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="polyadd2.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="polysub1_ans.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="polysub1_me.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="polysub2_ans.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix1.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="matrix2.c">
+      <Filter>소스 파일\week2</Filter>
+    </ClCompile>
+    <ClCompile Include="031401.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="031402.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="031403.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="031404.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="031405.c">
+      <Filter>소스 파일\week1</Filter>
+    </ClCompile>
+    <ClCompile Include="circularlinked1.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="circularlinked2.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="doublelinked1.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="doublelinked2.c">
+      <Filter>소스 파일\week3</Filter>
+    </ClCompile>
+    <ClCompile Include="simplelinked1.c">
+      <Filter>소스 파일\week5</Filter>
+    </ClCompile>
+    <ClCompile Include="simplelinked1_ans.c">
+      <Filter>소스 파일\week5</Filter>
+    </ClCompile>
+    <ClCompile Include="simplelinked2_search.c">
+      <Filter>소스 파일\week5</Filter>
+    </ClCompile>
+    <ClCompile Include="simplelinked3_append.c">
+      <Filter>소스 파일\week5</Filter>
+    </ClCompile>
+    <ClCompile Include="simplelinked4_reserved.c">
+      <Filter>소스 파일\week5</Filter>
+    </ClCompile>
+    <ClCompile Include="simplelinked5_polyadd.c">
+      <Filter>소스 파일\week5</Filter>
+    </ClCompile>
+    <ClCompile Include="doublelinked4.c">
+      <Filter>소스 파일\week6</Filter>
+    </ClCompile>
+    <ClCompile Include="stack1.c">
+      <Filter>소스 파일\week6</Filter>
+    </ClCompile>
+    <ClCompile Include="stack2.c">
+      <Filter>소스 파일\week6</Filter>
+    </ClCompile>
+    <ClCompile Include="stack3.c">
+      <Filter>소스 파일\week6</Filter>
+    </ClCompile>
+    <ClCompile Include="stack4.c">
+      <Filter>소스 파일\week6</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_quiz1.c">
+      <Filter>소스 파일\week6</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_quiz2.c">
+      <Filter>소스 파일\week6</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_quiz3.c">
+      <Filter>소스 파일\week6</Filter>
+    </ClCompile>
+    <ClCompile Include="block_top_quiz.c">
+      <Filter>소스 파일\week7</Filter>
+    </ClCompile>
+    <ClCompile Include="block_top_quiz.cpp">
+      <Filter>소스 파일\week7</Filter>
+    </ClCompile>
+    <ClCompile Include="stack_extra.c">
+      <Filter>소스 파일\week7</Filter>
+    </ClCompile>
+    <ClCompile Include="queue1.c">
+      <Filter>소스 파일\week8</Filter>
+    </ClCompile>
+    <ClCompile Include="queue2.c">
+      <Filter>소스 파일\week8</Filter>
+    </ClCompile>
+    <ClCompile Include="queue3.c">
+      <Filter>소스 파일\week8</Filter>
+    </ClCompile>
+    <ClCompile Include="deque1.c">
+      <Filter>소스 파일\week8</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz1.c">
+      <Filter>소스 파일\week8</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
