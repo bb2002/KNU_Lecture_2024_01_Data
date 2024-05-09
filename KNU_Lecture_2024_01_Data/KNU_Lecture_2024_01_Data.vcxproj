@@ -197,6 +197,9 @@
     <ClCompile Include="031405.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="bin_search.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="block_top_quiz.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -221,6 +224,7 @@
     <ClCompile Include="doublelinked4.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="advanced_search.c" />
     <ClCompile Include="polyadd1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -275,7 +279,18 @@
     <ClCompile Include="quiz.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="quiz1.c" />
+    <ClCompile Include="quiz1.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="quiz2.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="quiz3.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="search1.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="simplelinked1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -316,6 +331,30 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="stack_quiz3.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="tree1.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="tree2.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="tree4.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="tree_dircalc.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="tree_scan1.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="tree_scan2.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="tree_scan3.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="tree_thread.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
   </ItemGroup>

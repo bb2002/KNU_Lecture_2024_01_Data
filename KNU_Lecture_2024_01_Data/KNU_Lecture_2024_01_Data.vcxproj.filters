@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\week9">
       <UniqueIdentifier>{36c1e7ab-84fe-45bd-ad51-1ebfd0d8cee7}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\week10">
+      <UniqueIdentifier>{86002bd4-9bd5-4c88-84cc-86d9d7dd59fe}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.c">
@@ -179,6 +182,45 @@
     </ClCompile>
     <ClCompile Include="quiz1.c">
       <Filter>소스 파일\week8</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz2.c">
+      <Filter>소스 파일\week8</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz3.cpp">
+      <Filter>소스 파일\week8</Filter>
+    </ClCompile>
+    <ClCompile Include="tree1.c">
+      <Filter>소스 파일\week9</Filter>
+    </ClCompile>
+    <ClCompile Include="tree2.c">
+      <Filter>소스 파일\week9</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_scan1.c">
+      <Filter>소스 파일\week9</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_scan2.c">
+      <Filter>소스 파일\week9</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_scan3.c">
+      <Filter>소스 파일\week10</Filter>
+    </ClCompile>
+    <ClCompile Include="tree4.c">
+      <Filter>소스 파일\week10</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_dircalc.c">
+      <Filter>소스 파일\week10</Filter>
+    </ClCompile>
+    <ClCompile Include="search1.c">
+      <Filter>소스 파일\week10</Filter>
+    </ClCompile>
+    <ClCompile Include="bin_search.c">
+      <Filter>소스 파일\week10</Filter>
+    </ClCompile>
+    <ClCompile Include="tree_thread.c">
+      <Filter>소스 파일\week10</Filter>
+    </ClCompile>
+    <ClCompile Include="advanced_search.c">
+      <Filter>소스 파일\week10</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
