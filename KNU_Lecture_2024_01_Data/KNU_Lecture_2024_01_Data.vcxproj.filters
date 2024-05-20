@@ -46,6 +46,9 @@
     <Filter Include="소스 파일\week11">
       <UniqueIdentifier>{bda6ff97-4a5f-4c54-8b3e-c4a10a7660c3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\week12">
+      <UniqueIdentifier>{1e61ffc3-f94f-4ad5-b803-43c9f8b1d6a8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.c">
@@ -239,6 +242,12 @@
     </ClCompile>
     <ClCompile Include="quiz_linux.c">
       <Filter>소스 파일\week11</Filter>
+    </ClCompile>
+    <ClCompile Include="sort1.c">
+      <Filter>소스 파일\week12</Filter>
+    </ClCompile>
+    <ClCompile Include="heap1.c">
+      <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
