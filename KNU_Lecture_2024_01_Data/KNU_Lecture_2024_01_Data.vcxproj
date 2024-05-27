@@ -246,6 +246,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>
     <ClCompile Include="graph1.c" />
+    <ClCompile Include="graph2.c" />
     <ClCompile Include="heap1.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|ARM64'">true</ExcludedFromBuild>
     </ClCompile>

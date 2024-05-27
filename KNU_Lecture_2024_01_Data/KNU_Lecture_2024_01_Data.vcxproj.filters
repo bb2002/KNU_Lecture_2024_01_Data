@@ -273,6 +273,9 @@
     <ClCompile Include="graph1.c">
       <Filter>소스 파일\week13</Filter>
     </ClCompile>
+    <ClCompile Include="graph2.c">
+      <Filter>소스 파일\week13</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="heap2.c">
