@@ -49,6 +49,9 @@
     <Filter Include="소스 파일\week12">
       <UniqueIdentifier>{1e61ffc3-f94f-4ad5-b803-43c9f8b1d6a8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\week13">
+      <UniqueIdentifier>{de5b8ff2-be84-40f4-b722-c6c0e60d416e}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="helloworld.c">
@@ -247,7 +250,33 @@
       <Filter>소스 파일\week12</Filter>
     </ClCompile>
     <ClCompile Include="heap1.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\week12</Filter>
     </ClCompile>
+    <ClCompile Include="heap3.c">
+      <Filter>소스 파일\week12</Filter>
+    </ClCompile>
+    <ClCompile Include="huff.c">
+      <Filter>소스 파일\week12</Filter>
+    </ClCompile>
+    <ClCompile Include="consumer_quiz.c">
+      <Filter>소스 파일\week12</Filter>
+    </ClCompile>
+    <ClCompile Include="consumer_quiz.cpp">
+      <Filter>소스 파일\week12</Filter>
+    </ClCompile>
+    <ClCompile Include="country_quiz.cpp">
+      <Filter>소스 파일\week12</Filter>
+    </ClCompile>
+    <ClCompile Include="country_quiz.c">
+      <Filter>소스 파일\week12</Filter>
+    </ClCompile>
+    <ClCompile Include="graph1.c">
+      <Filter>소스 파일\week13</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="heap2.c">
+      <Filter>소스 파일\week12</Filter>
+    </None>
   </ItemGroup>
 </Project>
